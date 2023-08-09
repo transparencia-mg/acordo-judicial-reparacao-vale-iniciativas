@@ -158,7 +158,7 @@ fields:
         - 'II.3'
         - 'III'
         - 'IV'
-        - 'Ressarcimentos e contratações temporárias'
+        - 'Ressarcimentos e contratações'
     missingValues:
       - ''
   - name: valor_projeto
