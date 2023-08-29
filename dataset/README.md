@@ -6,6 +6,6 @@ O Acordo Judicial que trata esse repositório foi firmado entre o Governo de Min
 
 O Acordo Judicial visa reparar os danos decorrentes do rompimento das barragens da Vale S.A. em Brumadinho e conta com um valor total de R$ 37.689.767.329,00 (trinta e sete bilhões, seiscentos e oitenta e nove milhões, setecentos e sessenta e sete mil, trezentos e vinte e nove reais).
 
-Os recursos financeiros previstos para reparação que serão repassados ao Estado pela Vale S.A, cerca de R$ 11,06 bilhões dos R$ 37,68 bilhões, possuem fonte específica no Orçamento e os valores são vinculados aos projetos previsto.
+Os recursos financeiros previstos para reparação que serão repassados ao Estado pela Vale S.A, cerca de R$ 11,06 bilhões dos R$ 37,68 bilhões, possuem fonte específica no Orçamento e os valores são vinculados aos projetos previstos.
 
 Outras informações sobre o Acordo Judicial de Reparação podem ser consultadas na página do [Comitê Pró-Brumadinho](https://www.mg.gov.br/pro-brumadinho).
