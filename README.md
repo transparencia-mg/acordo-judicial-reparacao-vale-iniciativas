@@ -1,4 +1,4 @@
-# - Conjunto de dados - Dataset
+# Conjunto de dados - Dataset
 
 Este dataset template é um conjunto de automatizações desenvolvidas pela Diretoria Central de Transparência Ativa - DCTA/CGE para criação, documentação, validação e publicação (criação e atualização em instâncias do CKAN) de conjunto de dados ou datasets.
 
