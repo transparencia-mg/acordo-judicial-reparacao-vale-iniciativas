@@ -8,7 +8,7 @@ Documentação das principais alterações. Baseado na filosofia [Mantenha um Ch
   
 ### [0.0.9] - 2023-04-19
 
-- [Deliberação 13](https://www.mg.gov.br/sites/default/files/pro_brumadinho/arquivos/Deliberacao%20013.2022_Diretrizes%20para%20participacao%20em%20Feiras%20e%20Eventos%20da%20SECULT%20e%20atualizacao%20de%20valores%20de%20projetos.pdf), publicada em 19 de abril de 2023, contém diretrizes para participação da SECULT em Feiras e eventos no âmbito do projeto "Fortalecimento da Competitividade Turística de Minas Gerais" e destina parte dos recursos provenientes de correção monetária e receitas financeiras aos projetos “Fortalecimento e reestruturação tecnológica da Controladoria Setorial”; "Reestruturação logística, tecnológica e de cobrança da dívida ativa da CGE" e "Melhoria da estrutura logística e energética da Cidade Administrativa para redução de custos"
+- [Deliberação 13](https://www.mg.gov.br/sites/default/files/pro_brumadinho/arquivos/Deliberacao%20013.2022_Diretrizes%20para%20participacao%20em%20Feiras%20e%20Eventos%20da%20SECULT%20e%20atualizacao%20de%20valores%20de%20projetos.pdf), publicada em 19 de abril de 2023, contém diretrizes para participação da SECULT em Feiras e eventos no âmbito do projeto "Fortalecimento da Competitividade Turística de Minas Gerais" e destina parte dos recursos provenientes de correção monetária e receitas financeiras aos projetos “Fortalecimento e reestruturação tecnológica da Controladoria Setorial”; "Reestruturação logística, tecnológica e de cobrança da dívida ativa da CGE" e "Melhoria da estrutura logística e energética da Cidade Administrativa para redução de custos.
 
 ### [0.0.8] - 2022-12-26
 
