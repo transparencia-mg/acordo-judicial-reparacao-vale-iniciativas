@@ -4,7 +4,7 @@ Documentação das principais alterações. Baseado na filosofia [Mantenha um Ch
 
 ### [0.0.10] - 2023-09-07
 
-- [Deliberação 14](https://www.mg.gov.br/system/files/media/pro-brumadinho/documento_detalhado/2023/geral/deliberacao-cs-142023-ajuste-nos-valores-dos-projetos.pdf), publicada em 07 de setembrode 2023, contém a ampliação dos projetos da PMMG: "Fortalecimento do atendimento à saúde militar" e "Proteção policial individual e do cidadão mineiro", o remanjemento de valores entre projetos da Seinfra, assim como a destinação de valores proveniente da correção monetária prevista na cláusula 4.6 do Acordo Judicial para diversos projetos executados pela Seinfra, DER e Seapa. Esta deliberação destina também valores provenientes de aplicações financeiras previstas na cláusula 4.5.3 para ampliação do projeto “Complementação dos recursos federais para o Metrô da RMBH”.
+- [Deliberação 14](https://www.mg.gov.br/system/files/media/pro-brumadinho/documento_detalhado/2023/geral/deliberacao-cs-142023-ajuste-nos-valores-dos-projetos.pdf), publicada em 07 de setembro de 2023, contém a ampliação dos projetos da PMMG: "Fortalecimento do atendimento à saúde militar" e "Proteção policial individual e do cidadão mineiro", o remanjemento de valores entre projetos da Seinfra, assim como a destinação de valores provenientes da correção monetária prevista na cláusula 4.6 do Acordo Judicial para diversos projetos executados pela Seinfra, DER e Seapa. Esta deliberação destina também valores provenientes de aplicações financeiras previstas na cláusula 4.5.3 para ampliação do projeto “Complementação dos recursos federais para o Metrô da RMBH”.
   
 ### [0.0.9] - 2023-04-19
 
