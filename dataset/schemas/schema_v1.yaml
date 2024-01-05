@@ -157,12 +157,12 @@ fields:
       - Cláusula 4.4.11 Estruturas de Apoio
     constraints:
       enum:
+        - 'I.3'
         - 'Estruturas de apoio'
         - 'II.3'
         - 'III'
         - 'IV'
         - 'Ressarcimentos e contratações'
-        - 'I.3'
     missingValues:
       - ''
   - name: valor_projeto
