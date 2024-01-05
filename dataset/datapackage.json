@@ -87,7 +87,8 @@
                 "9342884",
                 "9361779",
                 "9345390",
-                "9345097"
+                "9345097",
+                "9395028"
               ]
             }
           },
@@ -159,7 +160,8 @@
                 "Melhoria da infraestrutura dos municípios - Mobilidade regional na Bacia do Paraopeba",
                 "Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG / conclusão de corredor logístico estruturante, conforme critérios técnicos da Seinfra - Mobilidade regional na Bacia do Paraopeba",
                 "Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco",
-                "Renovação da frota da CBMMG, modernização logística e reposição de materiais"
+                "Renovação da frota da CBMMG, modernização logística e reposição de materiais",
+                "Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba"
               ]
             }
           },
@@ -169,9 +171,10 @@
             "type": "string",
             "format": "default",
             "bareNumber": true,
-            "description": "Anexo e cláusulas ao qual o Projeto está no Acordo Judicial de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n - Anexo II.3 Projetos de Segurança Hidrica;\n - Anexo III  Programa de Mobilidade:\n - Anexo IV  Programa de Fortalecimento do Serviço Público\n - Cláusula 4.4.10 Ressarcimentos e contratações temporárias\n - Cláusula 4.4.11 Estruturas de Apoio\n",
+            "description": "Anexo e cláusulas ao qual o Projeto está no Acordo Judicial de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n - Anexo I.3 Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba (Obrigação de fazer da Vale S.A. convertida judicialmente em obrigação de pagar)\n - Anexo II.3 Projetos de Segurança Hidrica;\n - Anexo III  Programa de Mobilidade:\n - Anexo IV  Programa de Fortalecimento do Serviço Público\n - Cláusula 4.4.10 Ressarcimentos e contratações temporárias\n - Cláusula 4.4.11 Estruturas de Apoio\n",
             "constraints": {
               "enum": [
+                "I.3",
                 "Estruturas de apoio",
                 "II.3",
                 "III",
