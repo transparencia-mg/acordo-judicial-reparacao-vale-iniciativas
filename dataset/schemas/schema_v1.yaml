@@ -142,6 +142,7 @@ fields:
         - 'Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco'
         - 'Renovação da frota da CBMMG, modernização logística e reposição de materiais'
         - 'Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba'
+        
     - name: anexo
     title: Anexo do Acordo
     type: string
@@ -149,6 +150,7 @@ fields:
     bareNumber: true
     description: >
      Anexo e cláusulas ao qual o Projeto está no Acordo Judicial de Reparação firmado entre Estado de Minas Gerais e Vale S.A.
+      - Anexo I.3 Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba (Obrigação de fazer da Vale S.A. convertida judicialmente em obrigação de pagar)
       - Anexo II.3 Projetos de Segurança Hidrica;
       - Anexo III  Programa de Mobilidade:
       - Anexo IV  Programa de Fortalecimento do Serviço Público
