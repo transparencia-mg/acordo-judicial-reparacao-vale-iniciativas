@@ -142,7 +142,7 @@ fields:
         - 'Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco'
         - 'Renovação da frota da CBMMG, modernização logística e reposição de materiais'
         - 'Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba'
-    - name: anexo
+  - name: anexo
     title: Anexo do Acordo
     type: string
     format: default
