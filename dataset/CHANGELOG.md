@@ -2,6 +2,10 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.0.11] - 2023-01-08
+
+- [Deliberação 15](https://www.mg.gov.br/system/files/media/pro-brumadinho/documento_detalhado/2023/geral/deliberacao-0152023-autorizacao-projetos-rodoviarios-regionais-anexo-i3.pdf), publicada em 19 de dezembro de 2023, contém a destinação de recursos para o projeto "Projetos Regionais Rodoviários -  Mobilidade regional na Bacia do Paraopeba" oriundos da decisão judicial Id 9873566200, de 25/07/2023, que autorizou a conversão da obrigação da Vale S/A de fazer em obrigação de pagar e de valor previsto no item 4.4.3.1 do Acordo Judicial, com a respectiva correção monetária.
+
 ### [0.0.10] - 2023-09-08
 
 - [Deliberação 14](https://www.mg.gov.br/system/files/media/pro-brumadinho/documento_detalhado/2023/geral/deliberacao-cs-142023-ajuste-nos-valores-dos-projetos.pdf), publicada em 07 de setembro de 2023, contém a ampliação dos projetos da PMMG: "Fortalecimento do atendimento à saúde militar" e "Proteção policial individual e do cidadão mineiro", o remanjemento de valores entre projetos da Seinfra, assim como a destinação de valores provenientes da correção monetária prevista na cláusula 4.6 do Acordo Judicial para diversos projetos executados pela Seinfra, DER e Seapa. Esta deliberação destina também valores provenientes de aplicações financeiras previstas na cláusula 4.5.3 para ampliação do projeto “Complementação dos recursos federais para o Metrô da RMBH”.
