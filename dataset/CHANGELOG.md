@@ -2,7 +2,7 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
-### [0.0.11] - 2023-01-08
+### [0.0.11] - 2024-01-08
 
 - [Deliberação 15](https://www.mg.gov.br/system/files/media/pro-brumadinho/documento_detalhado/2023/geral/deliberacao-0152023-autorizacao-projetos-rodoviarios-regionais-anexo-i3.pdf), publicada em 19 de dezembro de 2023, contém a destinação de recursos para o projeto "Projetos Regionais Rodoviários -  Mobilidade regional na Bacia do Paraopeba" oriundos da decisão judicial Id 9873566200, de 25/07/2023, que autorizou a conversão da obrigação da Vale S/A de fazer em obrigação de pagar e de valor previsto no item 4.4.3.1 do Acordo Judicial, com a respectiva correção monetária.
 
