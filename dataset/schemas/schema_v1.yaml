@@ -104,7 +104,7 @@ fields:
         - 'Plano de Desenvolvimento Integrado do Turismo em Minas Gerais'
         - 'Fortalecimento e reestruturação tecnológica da Controladoria Geral do Estado'
         - 'Reestruturação das Tecnologias de Informação do CBMMG'
-        - 'Expansão e fortalecimento da Academia do Corpo de Bombeiros Militar '
+        - 'Expansão e fortalecimento da Academia do Corpo de Bombeiros Militar'
         - 'Execução de obras e serviços de engenharia em várias unidades do CBMMG'
         - 'Reestruturação logística, tecnológica e de cobrança da dívida ativa da AGE'
         - 'Melhoria da infraestrutura dos municípios - Outros repasses'
@@ -162,7 +162,7 @@ fields:
         - 'II.3'
         - 'III'
         - 'IV'
-        - 'Ressarcimentos e contratações'
+        - 'Ressarcimentos e contratações temporárias'
     missingValues:
       - ''
   - name: valor_projeto
