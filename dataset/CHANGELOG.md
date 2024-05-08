@@ -2,6 +2,10 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.0.13] - 2024-05-08
+
+- [Deliberação 18](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20018.2024%20-%20Apoio%20a%20transporte%20aquaviario%20Morada%20Nova%20de%20Minas.pdf), publicada em 18 de maio de 2023, contém a ampliação do projeto Melhoria da infraestrutura dos municípios" ao prever valor para execução conforme detalhamento "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas".
+  
 ### [0.0.12] - 2024-05-08
 
 - [Deliberação 17](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20017.2024%20-%20Atualiza%20nome%20PPP%20Complexo%20de%20Saude.pdf), publicada em 18 de maio de 2023, contém a atualização do nome de projeto e valor atribuído ao projeto da FHEMIG "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais" considerando a redistribuição de valores dos projetos da FUNED "Estruturação, reforma e ampliação da Fundação Ezequiel Dias – Funed" e " Estudo de viabilidade técnica e financeira e modelo de gestão da reestruturação da Fundação Ezequiel Dias – Funed".
