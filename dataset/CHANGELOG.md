@@ -2,6 +2,10 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.0.12] - 2024-05-08
+
+- [Deliberação 17](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20017.2024%20-%20Atualiza%20nome%20PPP%20Complexo%20de%20Saude.pdf), publicada em 18 de maio de 2023, contém a atualização do nome de projeto e valor atribuído ao projeto da FHEMIG "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais" considerando a redistribuição de valores dos projetos da FUNED "Estruturação, reforma e ampliação da Fundação Ezequiel Dias – Funed" e " Estudo de viabilidade técnica e financeira e modelo de gestão da reestruturação da Fundação Ezequiel Dias – Funed".
+  
 ### [0.0.11] - 2024-05-06
 
 - [Deliberação 16](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20016.2023%20-%20Autoriza%20nova%20estrat%C3%A9gia%20Anexo%20II.3%20-%20Seguran%C3%A7a%20H%C3%ADdrica.pdf), publicada em 22 de dezembro de 2023, contém a alteração da estratégia de execução do "Anexo II.3 - Segurança Hídrica" de transferência de recursos para a Companhia de Saneamento de Minas Gerais - COPASA mediante Aporte de Capital para celebração de Convênio entre a Secretaria de Estado de Desenvolvimento Econômico - SEDE e a COPASA para repasse de recursos para elaboração de projetos e consecutiva realização das obras por meio da Secretaria de Estado de Infraestrutura, Mobilidade e Parcerias – SEINFRA.
