@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.027,
+  "time": 0.028,
   "errors": [],
   "tasks": [
     {
@@ -87,7 +87,9 @@
                   "9361779",
                   "9345390",
                   "9345097",
-                  "9395028"
+                  "9395028",
+                  "9428104",
+                  "9428110"
                 ]
               }
             },
@@ -160,7 +162,9 @@
                   "Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG / conclusão de corredor logístico estruturante, conforme critérios técnicos da Seinfra - Mobilidade regional na Bacia do Paraopeba",
                   "Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco",
                   "Renovação da frota da CBMMG, modernização logística e reposição de materiais",
-                  "Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba"
+                  "Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba",
+                  "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas",
+                  "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais"
                 ]
               }
             },
@@ -211,7 +215,7 @@
           "rows": 62
         }
       },
-      "time": 0.015,
+      "time": 0.016,
       "scope": [
         "hash-count-error",
         "byte-count-error",
