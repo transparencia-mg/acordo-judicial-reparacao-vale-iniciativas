@@ -2,13 +2,17 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
-### [0.0.13] - 2024-05-08
+### [0.0.14] - 2024-06-11
 
-- [Deliberação 18](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20018.2024%20-%20Apoio%20a%20transporte%20aquaviario%20Morada%20Nova%20de%20Minas.pdf), publicada em 18 de maio de 2023, contém a ampliação do projeto Melhoria da infraestrutura dos municípios" ao prever valor para execução conforme detalhamento "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas".
+- [Deliberação 19](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-06/Delibera%C3%A7%C3%A3o%20CS%2019.2024.pdf), publicada em 08 de junho de 2024, contém a mudança de nomeclatura das execuções estaduais inseridas no âmbito do Acordo Jucidical, o que entendia-se como "projetos" passa a ser chamado de "inciativas". São renomeadas duas inciativas que passam a chamar: "Contratações temporárias e outras despesas de pessoal" e "Atualização do Plano de Desenvolvimento Urbano Integrado da Região Metropolitana". A última tem seu valor atualizado assim como as inicitaivas: "Fortalecimento da estrutura e dos processos do Instituto Mineiro de Agropecuária" e "Reestruturação logística, tecnológica e de cobrança da dívida ativa da AGE".
+
+  ### [0.0.13] - 2024-05-08
+
+- [Deliberação 18](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20018.2024%20-%20Apoio%20a%20transporte%20aquaviario%20Morada%20Nova%20de%20Minas.pdf), publicada em 18 de maio de 2024, contém a ampliação do projeto Melhoria da infraestrutura dos municípios" ao prever valor para execução conforme detalhamento "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas".
   
 ### [0.0.12] - 2024-05-08
 
-- [Deliberação 17](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20017.2024%20-%20Atualiza%20nome%20PPP%20Complexo%20de%20Saude.pdf), publicada em 18 de maio de 2023, contém a atualização do nome de projeto e valor atribuído ao projeto da FHEMIG "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais" considerando a redistribuição de valores dos projetos da FUNED "Estruturação, reforma e ampliação da Fundação Ezequiel Dias – Funed" e " Estudo de viabilidade técnica e financeira e modelo de gestão da reestruturação da Fundação Ezequiel Dias – Funed".
+- [Deliberação 17](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-05/Delibera%C3%A7%C3%A3o%20017.2024%20-%20Atualiza%20nome%20PPP%20Complexo%20de%20Saude.pdf), publicada em 18 de maio de 2024, contém a atualização do nome de projeto e valor atribuído ao projeto da FHEMIG "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais" considerando a redistribuição de valores dos projetos da FUNED "Estruturação, reforma e ampliação da Fundação Ezequiel Dias – Funed" e " Estudo de viabilidade técnica e financeira e modelo de gestão da reestruturação da Fundação Ezequiel Dias – Funed".
   
 ### [0.0.11] - 2024-05-06
 
