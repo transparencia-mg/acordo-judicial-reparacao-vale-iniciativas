@@ -2,7 +2,7 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
-### [0.0.14] - 2024-06-11 teste4
+### [0.0.14] - 2024-06-11 teste 
 
 - [Deliberação 19](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-06/Delibera%C3%A7%C3%A3o%20CS%2019.2024.pdf), publicada em 08 de junho de 2024, contém a mudança de nomeclatura das execuções estaduais inseridas no âmbito do Acordo Jucidical, o que entendia-se como "projetos" passa a ser chamado de "inciativas". São renomeadas duas inciativas que passam a chamar: "Contratações temporárias e outras despesas de pessoal" e "Atualização do Plano de Desenvolvimento Urbano Integrado da Região Metropolitana". A última tem seu valor atualizado assim como as inicitaivas: "Fortalecimento da estrutura e dos processos do Instituto Mineiro de Agropecuária" e "Reestruturação logística, tecnológica e de cobrança da dívida ativa da AGE".
 
