@@ -1,25 +1,25 @@
 {
   "version": "4.16.6",
-  "time": 0.026,
+  "time": 0.027,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Contém valores destinados aos projetos por meio do Acordo Judicial firmado com o objetivo de reparar os danos decorrentes do rompimento das barragens  da Vale S.A. em Brumadinho.\nAs alterações nos valores do Projetos ocorrem conforme deliberações do Conselho Superior do Comitê Gestor Pró-Brumadinho no uso das atribuições conferidas pelo [Decreto nº 48.183/2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48183&comp=&ano=2021).\n",
+        "description": "Contém valores destinados aos iniciativas por meio do Acordo Judicial firmado com o objetivo de reparar os danos decorrentes do rompimento das barragens  da Vale S.A. em Brumadinho.\nAs alterações nos valores do Projetos ocorrem conforme deliberações do Conselho Superior do Comitê Gestor Pró-Brumadinho no uso das atribuições conferidas pelo [Decreto nº 48.183/2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48183&comp=&ano=2021).\n",
         "encoding": "utf-8-sig",
         "format": "csv",
-        "name": "projetos-acordo-judicial-reparacao-vale",
-        "path": "data/projetos_acordo_judicial_reparacao_vale.csv",
+        "name": "iniciativas-acordo-judicial-reparacao-vale",
+        "path": "data/iniciativas_acordo_judicial_reparacao_vale.csv",
         "profile": "tabular-data-resource",
-        "title": "Projetos Acordo Judicial de Reparação da Vale",
+        "title": "Iniciativas Acordo Judicial de Reparação da Vale",
         "schema": {
           "fields": [
             {
-              "name": "codigo_projeto",
-              "title": "Código Projeto",
+              "name": "codigo_iniciativa",
+              "title": "Código Iniciativa",
               "type": "integer",
               "format": "default",
-              "description": "Número de identificação do Projeto no armazém SIAFI (Sistema Integrado de Administração Financeira de Minas Gerais).\n",
+              "description": "Número de identificação da Iniciativa no armazém SIAFI (Sistema Integrado de Administração Financeira de Minas Gerais).\n",
               "notes": [
                 "No Armazém de Dados SIAFI o campo é identificado como 'ContratoConvênio Entrada';",
                 "No Armazém de Dados SIGCON- Entrada campo é identificado como 'Convênio Número Sequencial SIAFI'"
@@ -92,11 +92,11 @@
               }
             },
             {
-              "name": "projeto",
-              "title": "Projeto",
+              "name": "iniciativa",
+              "title": "Iniciativa",
               "type": "string",
               "format": "default",
-              "description": "Descrição do projeto conforme consta no Acordo Judicial de de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n",
+              "description": "Descrição da iniciativa conforme consta no Acordo Judicial de de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n",
               "constraints": {
                 "enum": [
                   "Melhoria da infraestrutura dos municípios",
@@ -170,7 +170,7 @@
               "type": "string",
               "format": "default",
               "bareNumber": true,
-              "description": "Anexo e cláusulas ao qual o Projeto está no Acordo Judicial de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n - Anexo I.3 Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba (Obrigação de fazer da Vale S.A. convertida judicialmente em obrigação de pagar)\n - Anexo II.3 Projetos de Segurança Hidrica;\n - Anexo III  Programa de Mobilidade:\n - Anexo IV  Programa de Fortalecimento do Serviço Público\n - Cláusula 4.4.10 Ressarcimentos e contratações temporárias\n - Cláusula 4.4.11 Estruturas de Apoio\n",
+              "description": "Anexo e cláusulas ao qual a Iniciativa está no Acordo Judicial de Reparação firmado entre Estado de Minas Gerais e Vale S.A.\n - Anexo I.3 Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba (Obrigação de fazer da Vale S.A. convertida judicialmente em obrigação de pagar)\n - Anexo II.3 Projetos de Segurança Hidrica;\n - Anexo III  Programa de Mobilidade:\n - Anexo IV  Programa de Fortalecimento do Serviço Público\n - Cláusula 4.4.10 Ressarcimentos e contratações temporárias\n - Cláusula 4.4.11 Estruturas de Apoio\n",
               "constraints": {
                 "enum": [
                   "I.3",
@@ -186,8 +186,8 @@
               ]
             },
             {
-              "name": "valor_projeto",
-              "title": "Valor do Projeto",
+              "name": "valor_iniciativa",
+              "title": "Valor do Iniciativa",
               "type": "number",
               "format": "default",
               "bareNumber": true,
@@ -195,7 +195,7 @@
               "constraints": {
                 "required": true
               },
-              "description": "Valor total destinado ao projeto conforme Acordo Judicial de Reparação e Deliberações do Conselho Superior do Comitê Gestor Pró-Brumadinho no uso das  atribuições conferidas pelo [Decreto nº 48.183/2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48183&comp=&ano=2021).\n"
+              "description": "Valor total destinado a Iniciativa conforme Acordo Judicial de Reparação e Deliberações do Conselho Superior do Comitê Gestor Pró-Brumadinho no uso das  atribuições conferidas pelo [Decreto nº 48.183/2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48183&comp=&ano=2021).\n"
             }
           ]
         },
@@ -205,13 +205,13 @@
         "scheme": "file",
         "hashing": "md5",
         "stats": {
-          "hash": "f270b77151bb7de9c6cb5aaf75cf4524",
-          "bytes": 7030,
+          "hash": "3ef384020e6e4799a8bf8c5e76090b0a",
+          "bytes": 7036,
           "fields": 4,
           "rows": 62
         }
       },
-      "time": 0.014,
+      "time": 0.015,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -233,16 +233,42 @@
         "unique-error"
       ],
       "partial": false,
-      "errors": [],
+      "errors": [
+        {
+          "label": "projeto",
+          "fieldName": "iniciativa",
+          "fieldNumber": 2,
+          "fieldPosition": 2,
+          "labels": [
+            "codigo_iniciativa",
+            "projeto",
+            "anexo",
+            "valor_iniciativa"
+          ],
+          "rowPositions": [
+            1
+          ],
+          "code": "incorrect-label",
+          "name": "Incorrect Label",
+          "tags": [
+            "#table",
+            "#header",
+            "#label"
+          ],
+          "note": "",
+          "message": "Label \"projeto\" in field iniciativa at position \"2\" does not match the field name in the schema",
+          "description": "One of the data source header does not match the field name defined in the schema."
+        }
+      ],
       "stats": {
-        "errors": 0
+        "errors": 1
       },
-      "valid": true
+      "valid": false
     }
   ],
   "stats": {
-    "errors": 0,
+    "errors": 1,
     "tasks": 1
   },
-  "valid": true
+  "valid": false
 }
