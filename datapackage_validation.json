@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.027,
+  "time": 0.028,
   "errors": [],
   "tasks": [
     {
@@ -205,8 +205,8 @@
         "scheme": "file",
         "hashing": "md5",
         "stats": {
-          "hash": "91af76b7c789bd2136d4f5fb7c1b2e9b",
-          "bytes": 7039,
+          "hash": "3ef384020e6e4799a8bf8c5e76090b0a",
+          "bytes": 7036,
           "fields": 4,
           "rows": 62
         }
@@ -233,16 +233,42 @@
         "unique-error"
       ],
       "partial": false,
-      "errors": [],
+      "errors": [
+        {
+          "label": "projeto",
+          "fieldName": "iniciativa",
+          "fieldNumber": 2,
+          "fieldPosition": 2,
+          "labels": [
+            "codigo_iniciativa",
+            "projeto",
+            "anexo",
+            "valor_iniciativa"
+          ],
+          "rowPositions": [
+            1
+          ],
+          "code": "incorrect-label",
+          "name": "Incorrect Label",
+          "tags": [
+            "#table",
+            "#header",
+            "#label"
+          ],
+          "note": "",
+          "message": "Label \"projeto\" in field iniciativa at position \"2\" does not match the field name in the schema",
+          "description": "One of the data source header does not match the field name defined in the schema."
+        }
+      ],
       "stats": {
-        "errors": 0
+        "errors": 1
       },
-      "valid": true
+      "valid": false
     }
   ],
   "stats": {
-    "errors": 0,
+    "errors": 1,
     "tasks": 1
   },
-  "valid": true
+  "valid": false
 }
