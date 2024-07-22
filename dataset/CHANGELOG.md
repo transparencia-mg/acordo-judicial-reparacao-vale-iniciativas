@@ -4,7 +4,7 @@ Documentação das principais alterações. Baseado na filosofia [Mantenha um Ch
 
 ### [0.0.15] - 2024-07-22 
 
-- [Deliberação 20](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-07/Delibera%C3%A7%C3%A3o%20020.2024_Atualizacao-de-valores-das-iniciativas.pdf), publicada em 20 de juLHO de 2024, contém o remanejamento de valores entre os projetos da SEDE "Elaboração de instrumentos de gestão para desenvolvimento de mineração sustentável e 
+- [Deliberação 20](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-07/Delibera%C3%A7%C3%A3o%20020.2024_Atualizacao-de-valores-das-iniciativas.pdf), publicada em 20 de Julho de 2024, contém o remanejamento de valores entre os projetos da SEDE "Elaboração de instrumentos de gestão para desenvolvimento de mineração sustentável e 
 competitiva": "Avaliação Ambiental Estratégica" e "Elaboração do Plano Estadual da Mineração de Minas Gerais". A destinação de valores de correção monetária para os projeto "Construção de pontes em São Francisco, Manga e São Romão sobre o Rio São Francisco”, “Melhoria da estrutura logística e energética da Cidade Administrativa para redução de custos" e "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano" e a destinação de valores de rendimentos para o projeto “Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG/conclusão de corredor logístico estruturante, conforme critérios técnicos da SEINFRA”. Houve também a alteração no valor limite para a obra “Pavimentação da rodovia estadual AMG 930 (Felixlândia)". 
 
 ### [0.0.14] - 2024-06-11 
