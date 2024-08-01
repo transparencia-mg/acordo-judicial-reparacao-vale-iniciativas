@@ -87,7 +87,8 @@
                   "9345097",
                   "9395028",
                   "9428104",
-                  "9428110"
+                  "9428110",
+                  "0000000"
                 ]
               }
             },
@@ -160,7 +161,8 @@
                   "Renovação da frota da CBMMG, modernização logística e reposição de materiais",
                   "Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba",
                   "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas",
-                  "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais"
+                  "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais",
+                  "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano"
                 ]
               }
             },
@@ -211,7 +213,7 @@
           "rows": 62
         }
       },
-      "time": 0.014,
+      "time": 0.015,
       "scope": [
         "hash-count-error",
         "byte-count-error",
