@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.028,
+  "time": 0.027,
   "errors": [],
   "tasks": [
     {
@@ -207,13 +207,13 @@
         "scheme": "file",
         "hashing": "md5",
         "stats": {
-          "hash": "420a634d0cee0b891a9747038672d672",
-          "bytes": 7151,
+          "hash": "f337e73266ea626241c65282a8cfa186",
+          "bytes": 7152,
           "fields": 4,
           "rows": 63
         }
       },
-      "time": 0.015,
+      "time": 0.014,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -235,41 +235,16 @@
         "unique-error"
       ],
       "partial": false,
-      "errors": [
-        {
-          "cell": "V",
-          "fieldName": "anexo",
-          "fieldNumber": 3,
-          "fieldPosition": 3,
-          "cells": [
-            "9435581",
-            "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano",
-            "V",
-            "380000000,0"
-          ],
-          "rowNumber": 63,
-          "rowPosition": 64,
-          "code": "constraint-error",
-          "name": "Constraint Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "constraint \"enum\" is \"['I.3', 'Estruturas de apoio', 'II.3', 'III', 'IV', 'Ressarcimentos e contratações temporárias']\"",
-          "message": "The cell \"V\" in row at position \"64\" and field \"anexo\" at position \"3\" does not conform to a constraint: constraint \"enum\" is \"['I.3', 'Estruturas de apoio', 'II.3', 'III', 'IV', 'Ressarcimentos e contratações temporárias']\"",
-          "description": "A field value does not conform to a constraint."
-        }
-      ],
+      "errors": [],
       "stats": {
-        "errors": 1
+        "errors": 0
       },
-      "valid": false
+      "valid": true
     }
   ],
   "stats": {
-    "errors": 1,
+    "errors": 0,
     "tasks": 1
   },
-  "valid": false
+  "valid": true
 }
