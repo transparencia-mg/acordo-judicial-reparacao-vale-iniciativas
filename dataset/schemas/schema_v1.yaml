@@ -73,6 +73,7 @@ fields:
       - '9428104'
       - '9428110'
       - '9435581'
+      - '9440688'
   - name: iniciativa
     title: Iniciativa
     type: string
@@ -144,6 +145,7 @@ fields:
         - 'Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas'
         - 'Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais'
         - 'Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano'
+        - 'Melhoria da infraestrutura dos municípios – Melhoria da oferta e do acesso à saúde da população de Juiz de Fora e Zona da Mata'
   - name: anexo
     title: Anexo do Acordo
     type: string
