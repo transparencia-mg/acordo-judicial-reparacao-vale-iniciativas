@@ -88,7 +88,8 @@
                   "9395028",
                   "9428104",
                   "9428110",
-                  "9435581"
+                  "9435581",
+                  "9440688"
                 ]
               }
             },
@@ -162,7 +163,8 @@
                   "Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba",
                   "Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas",
                   "Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais",
-                  "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano"
+                  "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano",
+                  "Melhoria da infraestrutura dos municípios – Melhoria da oferta e do acesso à saúde da população de Juiz de Fora e Zona da Mata"
                 ]
               }
             },
@@ -213,7 +215,7 @@
           "rows": 63
         }
       },
-      "time": 0.015,
+      "time": 0.014,
       "scope": [
         "hash-count-error",
         "byte-count-error",
