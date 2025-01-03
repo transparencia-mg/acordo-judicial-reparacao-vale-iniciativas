@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.031,
+  "time": 0.027,
   "errors": [],
   "tasks": [
     {
@@ -209,13 +209,13 @@
         "scheme": "file",
         "hashing": "md5",
         "stats": {
-          "hash": "503fd3c1c9e45da7386091d0845d6f57",
-          "bytes": 7371,
+          "hash": "e8d61d4b53b473761fae4a7846d0b46a",
+          "bytes": 7372,
           "fields": 4,
           "rows": 64
         }
       },
-      "time": 0.017,
+      "time": 0.015,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -271,7 +271,7 @@
             "9435581",
             "Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano",
             "V",
-            "380000000,0"
+            "393211725,25"
           ],
           "rowNumber": 63,
           "rowPosition": 64,
