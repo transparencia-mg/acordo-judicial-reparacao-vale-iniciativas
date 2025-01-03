@@ -2,6 +2,10 @@
 
 Documentação das principais alterações. Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
+### [0.0.17] - 2025-01-03
+
+- [Deliberação 22](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-12/Delibera%C3%A7%C3%A3o%20022.2024%20-%20Ajustes%20nos%20valores%20de%20iniciativa.pdf), publicada em 20 de Dezembro de 2024, contém a destinação de recursos para ampliação da iniciativa “Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano”. Do valor total destinado (R$ 13.211.725,25), o valor de R$2.634.980,26 é proveniente da correção monetária do Anexo IV prevista na cláusula 4.6 do Acordo Judicial e o valor de R$10.576.744,99 proveniente dos recursos de receitas financeiras do Anexo IV previstas nas cláusulas 4.5.3 e 4.5.4 do Acordo Judicial.
+
 ### [0.0.16] - 2024-10-10
 
 - [Deliberação 21](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-10/Delibera%C3%A7%C3%A3o%20021.2024%20-%20Atualiza%C3%A7%C3%A3o%20de%20valores%20das%20iniciativas.pdf), publicada em 10 de Outubro de 2024, contém a alteação do nome da iniciativa da SECULT de "Plano de Desenvolvimento Integrado do Turismo em Minas Gerais" para "Plano Diretor do Turismo Verde em Minas Gerais - Plano de Desenvolvimento Integrado do Turismo Sustentável de Minas Gerais"; destina recursos adicionais ao serviço de apoio técnico aos projetos e às obras de edificações e infraestrutura e para atendimento do cidadão para solução de pendências na emissão da Carteira de Identidade Nacional; cria a subiniciativa "Melhoria da infraestrutura dos municípios – Melhoria da oferta e do acesso à saúde da população de Juiz de Fora e Zona da Mata" com valor de R$ 150 milhões e altera o valor limite da iniciativa "Conclusão de obra e Equipagem de Hospitais Regionais".
