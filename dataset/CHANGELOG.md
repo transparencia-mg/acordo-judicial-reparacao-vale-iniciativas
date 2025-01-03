@@ -4,7 +4,7 @@ Documentação das principais alterações. Baseado na filosofia [Mantenha um Ch
 
 ### [0.0.17] - 2025-01-03
 
-- [Deliberação 22](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-12/Delibera%C3%A7%C3%A3o%20022.2024%20-%20Ajustes%20nos%20valores%20de%20iniciativa.pdf), publicada em 20 de Dezembro de 2024, contém a destinação de recursos para ampliação da iniciativa “Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano”. Do valor total destinado (R$ 13.211.725,25), o valor de R$2.634.980,26 é proveniente da correção monetária do Anexo IV prevista na cláusula 4.6 do Acordo Judicial e o valor de R$10.576.744,99 proveniente dos recursos de receitas financeiras do Anexo IV previstas nas cláusulas 4.5.3 e 4.5.4 do Acordo Judicial.
+- [Deliberação 22](https://www.mg.gov.br/system/files/media/documento_detalhado/2024-12/Delibera%C3%A7%C3%A3o%20022.2024%20-%20Ajustes%20nos%20valores%20de%20iniciativa.pdf), publicada em 20 de Dezembro de 2024, contém a destinação de recursos para ampliação da iniciativa “Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano”. 
 
 ### [0.0.16] - 2024-10-10
 
