@@ -1,14 +1,14 @@
-﻿codigo_iniciativa;iniciativa;anexo;valor_iniciativa
-9288130;Melhoria da infraestrutura dos municípios;IV;1195796000,0
+﻿codigo_iniciativa;iniciativa;anexo;valor_da_iniciativa
 9288130;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG / conclusão de corredor logístico estruturante, conforme critérios técnicos da Seinfra / melhoria da infraestrutura dos municípios;III;450000000,0
-9288132;Construção de pontes em São Francisco, Manga e São Romão sobre o Rio São Francisco;III;410000000,0
-9288133;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG/conclusão de corredor logístico estruturante, conforme critérios técnicos da SEINFRA;III;887000000,0
+9288130;Melhoria da infraestrutura dos municípios;IV;1195796000,0
+9288132;Construção de pontes em São Francisco, Manga e São Romão sobre o Rio São Francisco;III;603000000,0
+9288133;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG/conclusão de corredor logístico estruturante, conforme critérios técnicos da SEINFRA;III;1187000000,0
 9288134;Realização de obras rodoviárias - Caeté - Barão de Cocais e Contorno de Barão de Cocais;IV;140860000,0
 9288135;Implantação do Sistema de Informações Regulatórias da ARSAE-MG;IV;1345000,0
 9288136;Reestruturação dos Hospitais da Rede FHEMIG;IV;111480000,0
 9288137;Ampliação da rede de rádio digital no interior do Estado de Minas Gerais;IV;98100000,0
 9288138;Proteção policial individual e do cidadão mineiro;IV;38614000,0
-9288139;Atualização do Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de Belo Horizonte – PDUI-RMBH;IV;4400000,0
+9288139;Atualização do Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de Belo Horizonte ? PDUI-RMBH;IV;4400000,0
 9288141;Georreferenciamento de bens culturais protegidos;IV;500000,0
 9288142;Fortalecimento da estrutura e dos processos do Instituto Mineiro de Agropecuária;IV;36712000,0
 9288143;Implantação da Ouvidoria 4.0 e Ouvidoria Móvel;IV;722675,44
@@ -23,7 +23,7 @@
 9288154;Plano Diretor do Turismo Verde em Minas Gerais - Plano de Desenvolvimento Integrado do Turismo Sustentável de Minas Gerais;IV;650000,0
 9288155;Fortalecimento e reestruturação tecnológica da Controladoria Geral do Estado;IV;5550438,4
 9288167;Reestruturação das Tecnologias de Informação do CBMMG;IV;3773400,0
-9288168;Expansão e fortalecimento da Academia do Corpo de Bombeiros Militar ;IV;130000000,0
+9288168;Expansão e fortalecimento da Academia do Corpo de Bombeiros Militar;IV;130000000,0
 9288169;Execução de obras e serviços de engenharia em várias unidades do CBMMG;IV;16112602,23
 9288176;Reestruturação logística, tecnológica e de cobrança da dívida ativa da AGE;IV;40729352,11
 9288177;Melhoria da infraestrutura dos municípios - Outros repasses;IV;0,0
@@ -54,16 +54,21 @@
 9334530;Modernização da identificação civil e criminal - Digitalização do acervo de fichas datiloscópicas e cartões onomásticos;IV;14000000,0
 9337957;Complementação dos recursos federais para o Metrô da RMBH;III;470156273,05
 9341846;Ampliação da capacidade de cobertura da malha aérea da Polícia Militar de Minas Gerais;IV;13899715,81
-9342884;Melhoria da infraestrutura dos municípios - Mobilidade regional na Bacia do Paraopeba;IV;68000000,0
-9361779;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG / conclusão de corredor logístico estruturante, conforme critérios técnicos da Seinfra - Mobilidade regional na Bacia do Paraopeba;III;164460000,0
-9345390;Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco;IV;24164127,77
+9342884;Melhoria da infraestrutura dos municípios - Mobilidade regional na Bacia do Paraopeba;IV;51000000,0
 9345097;Renovação da frota da CBMMG, modernização logística e reposição de materiais;IV;3091703,6
-9395028;Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba;I.3;262717753,98
+9345390;Implementação do sistema de comunicação crítica do CBMMG para monitoramento das áreas de risco;IV;24164127,77
+9361779;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG / conclusão de corredor logístico estruturante, conforme critérios técnicos da Seinfra - Mobilidade regional na Bacia do Paraopeba;III;164460000,0
+9395028;Projetos Regionais Rodoviários - Mobilidade regional na Bacia do Paraopeba;I.3;307500225,61
+9428104;Melhoria da infraestrutura dos municípios ? Adequação de serviços de transporte fluvial em Morada Nova de Minas;IV;6000000,0
 9428110;Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais;IV;200689167,0
-9428104;Melhoria da infraestrutura dos municípios – Adequação de serviços de transporte fluvial em Morada Nova de Minas;IV;6000000,0
-9435581;Melhoria da infraestrutura dos municípios – Fortalecimento do transporte metropolitano;IV;400295455,63
-9440688;Melhoria da infraestrutura dos municípios – Melhoria da oferta e do acesso à saúde da população de Juiz de Fora e Zona da Mata;IV;150000000,0
-9468204;Melhoria da infraestrutura dos municípios - Fortalecimento do saneamento básico de Mário Campos;IV;50000000,0
+9435581;Melhoria da infraestrutura dos municípios ? Fortalecimento do transporte metropolitano;IV;402688785,73
+9440688;Melhoria da infraestrutura dos municípios ? Melhoria da oferta e do acesso à saúde da população de Juiz de Fora e Zona da Mata;IV;150000000,0
+9447772;Estrada Distrito Industrial de Brumadinho ? BR 381 - reaplicação ;Ressarcimentos e contratações temporárias;200000000,0
+9447773;Estrada Distrito Industrial de Brumadinho ? BR 381 - conversão ;I.4;122491729,82
 9468058;Elaboração de projetos rodoviários - Brumadinho-Mário Campos-BR381;IV;10000000,0
-9447773;Estrada Distrito Industrial de Brumadinho – BR 381 - conversão ;I.4;122491729,82
-9447772;Estrada Distrito Industrial de Brumadinho – BR 381 - reaplicação ;Ressarcimentos e contratações temporárias;200000000,0
+9468204;Melhoria da infraestrutura dos municípios - Fortalecimento do saneamento básico de Mário Campos;IV;50000000,0
+9481527;Recuperação de rodovias pavimentadas em pior estado, conforme avaliação técnica do DER-MG/conclusão de corredor logístico estruturante, conforme critérios técnicos da SEINFRA - Estrada Distrito Industrial de Brumadinho – BR 381;III;72830000,0
+9478733;Melhoria da infraestrutura dos municípios – Fortalecimento da infraestrutura de saneamento e macrodrenagem em Sarzedo ;IV;4031040,0
+9484137;Melhoria da infraestrutura dos municípios – Fortalecimento da estrutura de saúde em Sarzedo ;IV;10968960,0
+9483933;Melhoria da infraestrutura dos municípios – Fortalecimento da infraestrutura rodoviária em Sarzedo ;IV;29000000,0
+9483938;Construção e manutenção de um Novo Complexo de Saúde e operação de serviços não assistenciais/laboratoriais - conversão;4.4.9.2;67000000,0
