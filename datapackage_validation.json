@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.037,
+  "time": 0.041,
   "errors": [],
   "tasks": [
     {
@@ -209,13 +209,13 @@
         "scheme": "file",
         "hashing": "md5",
         "stats": {
-          "hash": "198aa1eec16766cfc550c9a59ea4a2b4",
+          "hash": "641fdc07f7c7134fe7ac1a2c537ee255",
           "bytes": 8637,
           "fields": 4,
           "rows": 74
         }
       },
-      "time": 0.021,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -440,7 +440,7 @@
             "9428104",
             "Melhoria da infraestrutura dos municípios ? Adequação de serviços de transporte fluvial em Morada Nova de Minas",
             "IV",
-            "6000000,0"
+            "6100000,0"
           ],
           "rowNumber": 61,
           "rowPosition": 62,
@@ -464,7 +464,7 @@
             "9435581",
             "Melhoria da infraestrutura dos municípios ? Fortalecimento do transporte metropolitano",
             "IV",
-            "402995175,74"
+            "402803870,01"
           ],
           "rowNumber": 63,
           "rowPosition": 64,
